@@ -7,3 +7,5 @@
   - [Lobbster](characters/lobbster.md)
 - Areas and places:
   - [Tennis und Sauna Club Schboinktown](Areas%20and%20Places/Tennis%20und%20Sauna%20Club%20Schboinktown.md)
+- Groups:
+  - [Die motivierten Tennismädels](Groups/die-motivierten-tennismaedels.md)
