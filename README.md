@@ -9,6 +9,9 @@ hoffentlich
 The Markdown wiki lives in `test/` and is rendered with MkDocs Material.
 Install the documentation dependencies and build it locally with:
 
+The [Supernatural Chicago structure](Supernatural%20Chicago/README.md) provides
+a local navigation outline with links to the original wiki.
+
 ```sh
 pip install -r requirements-docs.txt
 mkdocs serve
