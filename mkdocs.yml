@@ -1,0 +1,17 @@
+site_name: Dresden-Chicago Wiki
+site_url: https://davdcore.github.io/dresden-chicago/
+docs_dir: test
+site_dir: site
+
+theme:
+  name: material
+
+nav:
+  - Start: index.md
+  - Wiki: wiki.md
+  - Characters:
+      - Tobias Kern: characters/tobias-kern.md
+      - Mara Voss: characters/mara-voss.md
+      - Lobbster: characters/lobbster.md
+  - Areas and Places:
+      - Tennis und Sauna Club Schboinktown: "Areas and Places/Tennis und Sauna Club Schboinktown.md"
