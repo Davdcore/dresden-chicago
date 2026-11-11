@@ -2,18 +2,18 @@
 
 ## Overview
 
-**The Day the Wind Changed Sides** is a story about a one-on-one tennis match between a loud favorite and a quiet underdog. The favorite, Tobias Kern, expects an easy win. Instead, Mara Voss, who usually loses to him, defeats him decisively. The strange timing of the weather and a handful of improbable points leave room for one question: was it a remarkable upset, or did something divine take an interest?
+**The Day the Wind Changed Sides** is a story about a one-on-one tennis match between a loud favorite and a quiet underdog. The favorite, [Tobias Kern](characters/tobias-kern.md), expects an easy win. Instead, [Mara Voss](characters/mara-voss.md), who usually loses to him, defeats him decisively. The strange timing of the weather and a handful of improbable points leave room for one question: was it a remarkable upset, or did [Lobbster](characters/lobbster.md), the tennis fortune god, take an interest?
 
 | Detail | Description |
 |---|---|
 | Location | Riverside Court, a public court in the campaign's city |
-| Participants | Tobias Kern and Mara Voss |
+| Participants | [Tobias Kern](characters/tobias-kern.md) and [Mara Voss](characters/mara-voss.md) |
 | Result | Mara wins 6-1, 6-0 |
-| Central mystery | Whether the match was touched by a divine force |
+| Central mystery | Whether [Lobbster](characters/lobbster.md) influenced the match |
 
-## Story
+## The Riverside Court Match
 
-Tobias arrived at Riverside Court already celebrating. He had beaten Mara in each of their previous matches and made sure she knew it. He called the court his kingdom, announced that he would win before the sun moved behind the old water tower, and offered advice she had not asked for. Mara let him talk. She had brought one racket, a bottle of water, and no audience.
+[Tobias](characters/tobias-kern.md) arrived at Riverside Court already celebrating. He had beaten [Mara](characters/mara-voss.md) in each of their previous matches and made sure she knew it. He called the court his kingdom, announced that he would win before the sun moved behind the old water tower, and offered advice she had not asked for. Mara let him talk. She had brought one racket, a bottle of water, and no audience.
 
 The first game began with a gust of wind that sent Tobias's toss drifting behind him. He double-faulted twice, then blamed the court. Mara returned his next serve down the middle. It was not a spectacular shot, but Tobias rushed it and sent it into the net.
 
@@ -33,7 +33,7 @@ Mara won 6-1, 6-0. Tobias called it luck. Mara looked up at the cloudless sky an
 **Usual form:** Less consistent than Tobias and often beaten by him  
 **Temperament:** Observant, patient, and dryly humorous
 
-Mara knows that she cannot win by matching Tobias's power, so she studies his habits instead. His boastfulness makes him predictable: when challenged, he goes for harder shots and takes less time to recover. Her victory comes from discipline as much as any strange turn of fortune. She is curious about the match's odd moments, but does not need a supernatural explanation to accept that she played well.
+[Mara's character sheet](characters/mara-voss.md) describes her abilities and outlook. She knows that she cannot win by matching Tobias's power, so she studies his habits instead. His boastfulness makes him predictable: when challenged, he goes for harder shots and takes less time to recover. Her victory in [the Riverside Court match](#the-riverside-court-match) comes from discipline as much as any strange turn of fortune. She is curious about the match's odd moments, but does not need a supernatural explanation to accept that she played well.
 
 ### Tobias Kern
 
@@ -41,13 +41,13 @@ Mara knows that she cannot win by matching Tobias's power, so she studies his ha
 **Usual form:** The stronger player in their earlier matches  
 **Temperament:** Charismatic, competitive, and boastful
 
-Tobias enjoys an audience, even when there is none. He treats confidence as proof that he will win and mistakes Mara's silence for fear. When the match slips away, his frustration makes him less focused, and his need to explain each mistake keeps him from adjusting. Whether he was cursed, rattled by the weather, or simply having a terrible day is left unresolved.
+[Tobias's character sheet](characters/tobias-kern.md) describes the strengths that usually make him the favorite. He enjoys an audience, even when there is none. He treats confidence as proof that he will win and mistakes Mara's silence for fear. When [the match](#the-riverside-court-match) slips away, his frustration makes him less focused, and his need to explain each mistake keeps him from adjusting. Whether he was cursed, rattled by the weather, or simply having a terrible day is left unresolved.
 
-## Possible Divine Intervention
+## Lobbster and Possible Divine Intervention
 
-Local players might call the unseen presence **the Keeper of the Lines**, a spirit or minor god said to favor fair contests and humble skill. It does not hand victory to the weaker player; instead, it gives each competitor exactly enough rope to reveal their character. Tobias's boasts are followed by gusts against his serve, while Mara's patience is rewarded with calm air and a few uncanny net-cord drops.
+[Lobbster's character sheet](characters/lobbster.md) records the god's domains, signs, and possible influence. Lobbster is the tennis fortune god of sportsmanship and sportive faith. He does not simply hand victory to the weaker player; stories say he gives each competitor a fair chance to reveal their character. During [the Riverside Court match](#the-riverside-court-match), Tobias's boasts are followed by gusts against his serve, while Mara's patience is rewarded with calm air and a few uncanny net-cord drops.
 
-There is no proof the Keeper exists. The wind could have shifted naturally, the net-cord points could be chance, and Tobias may have beaten himself by getting angry. The story works either way: perhaps a divine power corrected an unfair balance, or perhaps Mara finally found the focus to beat a better player.
+There is no proof Lobbster intervened. The wind could have shifted naturally, the net-cord points could be chance, and Tobias may have beaten himself by getting angry. The story works either way: perhaps Lobbster honored the spirit of the game, or perhaps Mara finally found the focus to beat a better player.
 
 ## Themes
 
