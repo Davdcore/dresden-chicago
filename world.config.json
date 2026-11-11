@@ -1,0 +1,39 @@
+{
+  "world": {
+    "name": "[TODO: Enter the world or campaign name]",
+    "description": "[TODO: Briefly describe the setting and its central premise]",
+    "genre": "[TODO: Enter the genre or mix of genres]",
+    "time_period": "[TODO: Enter the historical period, date, or era]",
+    "tone": "[TODO: Describe the intended mood and style]"
+  },
+  "game": {
+    "system": "Mythras",
+    "system_version": "[TODO: Enter the rules edition or version, if relevant]",
+    "house_rules": [
+      "[TODO: Add a house rule, or remove this placeholder if there are none]"
+    ]
+  },
+  "setting": {
+    "starting_location": "[TODO: Enter where the campaign begins]",
+    "locations": [
+      {
+        "name": "[TODO: Enter a location name]",
+        "description": "[TODO: Describe the location and why it matters]"
+      }
+    ],
+    "factions": [
+      {
+        "name": "[TODO: Enter a group, organization, or faction name]",
+        "description": "[TODO: Describe its goals, influence, and notable details]"
+      }
+    ]
+  },
+  "campaign": {
+    "premise": "[TODO: Describe the situation that brings the characters together]",
+    "themes": [
+      "[TODO: Add a campaign theme]"
+    ],
+    "player_knowledge": "spieler-wissen/README.md",
+    "game_master_knowledge": "dm-wissen/README.md"
+  }
+}
