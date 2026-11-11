@@ -4,7 +4,7 @@
 
 | Detail | Description |
 |---|---|
-| Role | Tennis favorite; defeated by Mara at Riverside Court |
+| Role | Tennis favorite; defeated by Mara at [Tennis und Sauna Club Schboinktown](../Areas%20and%20Places/Tennis%20und%20Sauna%20Club%20Schboinktown.md) |
 | Usual standing | The stronger and more consistent player in their previous matches |
 | Temperament | Charismatic, competitive, boastful |
 | Goal | To be recognized as the best player at the club |
@@ -36,4 +36,4 @@ His main weakness is not a lack of ability but his dependence on control. If the
 
 ## Linked Event
 
-**[The Riverside Court match](../wiki.md#the-riverside-court-match)** is Tobias's worst performance against Mara. A troublesome toss and early errors shake his confidence; his complaints then compound the problem. He suspects the wind, the court, or Lobbster may have turned against him, but cannot prove any of it.
+**[The club match](../wiki.md#the-tennis-und-sauna-club-schboinktown-match)** is Tobias's worst performance against Mara. A troublesome toss and early errors shake his confidence; his complaints then compound the problem. He suspects the wind in the surrounding trees, the court, or Lobbster may have turned against him, but cannot prove any of it.

@@ -28,7 +28,7 @@ Any one sign can be ordinary chance. A pattern may be taken as a sign by believe
 
 ## Linked Event
 
-**[The Riverside Court match](../wiki.md#the-riverside-court-match)** is the best-known possible sign of Lobbster's presence in this story. The wind repeatedly troubles Tobias's serve, then falls still as Mara settles into her game; an unlikely net-cord point deepens the suspicion. If Lobbster intervened, he did not hand Mara the match: she still had to return the ball, stay composed, and win the points.
+**[The club match](../wiki.md#the-tennis-und-sauna-club-schboinktown-match)** is the best-known possible sign of Lobbster's presence in this story. The wind in the trees repeatedly troubles Tobias's serve, then falls still as Mara settles into her game; dappled light shifts over the court, and an unlikely net-cord point deepens the suspicion. If Lobbster intervened, he did not hand Mara the match: she still had to return the ball, stay composed, and win the points.
 
 ## Limits
 
