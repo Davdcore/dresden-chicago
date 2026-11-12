@@ -1,21 +1,16 @@
-# Überschrift
-## Unterschrift
-- Punkt
-Text.
-hoffentlich
+# Dresden-Chicago
 
-## Wiki
+Das Kampagnen-Wiki liegt als Markdown in `docs/`. Die Inhalte sind nach
+Einleitung, Geschichte, Geografie, Kreaturen, Fraktionen und
+Nicht-Spieler-Charakteren sortiert und werden von MkDocs Material als
+Wiki mit automatischer Navigation veröffentlicht.
 
-The Markdown wiki lives in `test/` and is rendered with MkDocs Material.
-Install the documentation dependencies and build it locally with:
-
-The [Supernatural Chicago structure](Supernatural%20Chicago/README.md) provides
-a local navigation outline with links to the original wiki.
+## Lokal anzeigen
 
 ```sh
 pip install -r requirements-docs.txt
 mkdocs serve
 ```
 
-GitHub Actions builds the site for pull requests and publishes it to GitHub Pages
-when changes reach `main`.
+GitHub Actions prüft den Wiki-Build bei Pull Requests und veröffentlicht die
+Seite nach Änderungen auf `main` über GitHub Pages.

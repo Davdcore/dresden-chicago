@@ -6,13 +6,13 @@ on:
     paths:
       - "mkdocs.yml"
       - "requirements-docs.txt"
-      - "test/**"
+      - "docs/**"
       - ".github/workflows/render-wiki.yml"
   pull_request:
     paths:
       - "mkdocs.yml"
       - "requirements-docs.txt"
-      - "test/**"
+      - "docs/**"
       - ".github/workflows/render-wiki.yml"
   workflow_dispatch:
 

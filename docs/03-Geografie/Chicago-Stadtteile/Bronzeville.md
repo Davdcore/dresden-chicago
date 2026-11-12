@@ -1,0 +1,5 @@
+# Bronzeville
+
+Dieser schmale Landstreifen, der südlich von Chinatown bis zum westlichen Rand von Hyde Park verläuft, war bis zur Desegregation in den Sechzigern Chicagos „Black Belt". Bronzeville blühte auf (so gut ein Ghetto kann), bis der Crash von '29 die meisten lokalen Unternehmen zerstörte. Der Nachkriegsrückgang der Schlachthöfe und Stahlwerke erledigte einen Großteil des Rests. Heute verläuft Martin Luther King Drive südwärts zwischen leeren Herrenhäusern und Stadthäusern und drohenden öffentlichen Wohnhöllen. Das Viertel klammert sich jedoch ans Leben; einige Entwickler würfeln darauf, dass Bronzeville der nächste South Loop wird, in der Hoffnung, sein Erbe (jeder von Louis Armstrong bis Ida B. Wells lebte hier einmal) in Tourismus und Entwicklung zu nutzen.
+
+Ironischerweise sind die schlimmsten Heimsuchungen in Bronzeville die konföderierten Kriegstoten von Camp Douglas, einem Unionsgefangenenlager, das 1862 rund um die 35th Street eingerichtet wurde. Über 6.000 Gefangene starben dort, hauptsächlich an Krankheiten; ihre Körper liegen meist im Oak Woods Cemetery am südlichen Ende des Viertels.

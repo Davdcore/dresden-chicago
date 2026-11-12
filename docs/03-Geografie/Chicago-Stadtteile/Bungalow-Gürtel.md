@@ -1,0 +1,9 @@
+# Bungalow-Gürtel
+
+Westlich und südwestlich von Englewood sind Viertel wie West Elsdon, Archer Heights, McKinley Park, Gage Park und Brighton Park in vielerlei Hinsicht ein Spiegelbild der Northwest Side. Taco-Stände mischen sich mit Pierogi-Buffet-Lokalen, und der Flughafen ist das unprätentiöse Midway, nicht das manische O'Hare, aber der Gemeinschaftscharakter ist derselbe.
+
+Arbeiterklasse-Familien mit starkem katholischen Glauben leben in einem Meer von Bungalows, gelegentlich mit einem oberirdischen Schwimmbad im Hinterhof oder einem Boot auf der Einfahrt. Schienen- und Lkw-Knotenpunkte säumen den Sanitary and Ship Canal; Fabriken (einige verlassen, einige in Betrieb, einige dazwischen) breiten sich von ihnen aus. Die Hauptkorridore des Gürtels sind der Garfield Boulevard (alias 55th), der von Hyde Park nach Midway Airport ost-west verläuft, und die Archer Avenue – die „Geisterstraße", die am meisten heimgesuchte Straße in Chicago.
+
+Die Archer Avenue beginnt im Wesentlichen in Bridgeport, dem irischen (und anderen ethnischen) Viertel, aus dem die Daleys stammten. Bridgeport ist im Grunde dasselbe wie der Bungalow-Gürtel, außer dass es noch mehr Polizisten und noch mehr Outfit-Crews hat. (Und Cellular Field. Los Sox!)
+
+Von dort verläuft Archer südwestwärts entlang eines Indianerpfades, der auf den ältesten Karten Chicagos als „der Weg zum Haus der Witwe" erscheint. Er verläuft parallel zu Kanälen und Flüssen und passiert auf dem Weg zum Vorort Lemont ein halbes Dutzend Friedhöfe. Es ist das Revier von Resurrection Mary (der berühmten „Phantom-Anhalterin"), einer Frau in Weiß, einer Erscheinung von acht gespenstischen Mönchen, La Llorona, einem gespenstischen Pferd und Kutsche, einem leuchtend roten Orb, unheimlicher Musik aus einer Gruft und mehr verschiedenen Heimsuchungen und Sichtungen, als man sich vorstellen kann.

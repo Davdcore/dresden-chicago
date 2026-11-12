@@ -1,0 +1,48 @@
+# Die Definition von Gruppierungen
+
+Willkommen bei Mythras Gruppierungen.
+
+Diese Regeln geben den Abenteuern durch Geheimnisse und Intrigen eine zusätzliche Würze. Die Charaktere können auf die Ziele einer Gruppierung, zu der sie gehören, hinarbeiten, die Pläne einer anderen Gruppierung vereiteln oder inmitten eines gesellschaftlichen Durcheinanders ihre eigene Agenda verfolgen. Der Spielleiter kann in einer Kampagne die Vorhaben der verschiedenen Gruppierungen nachhalten und den Abenteurern Einblicke in das größere Bild vermitteln, während er ihnen die Mittel zur Verfügung stellt, dieses Bild nach ihren eigenen Vorstellungen zu formen.
+
+Eine Gruppierung ist jede Gruppe von Personen, die ein gemeinsames Ziel mit ehrlichen oder üblen Mitteln verfolgt. So gesehen ist eine politische Partei, die zur Durchsetzung ihres Programms Lobbyarbeit leistet, eine Gruppierung – aber auch eine terroristische Zelle, ein messianischer Kult und eine gemeinnützige Organisation sind Gruppierungen.
+
+Es gibt zwar einige Überschneidungen zwischen Gruppierungen einerseits und den Kulten und Bruderschaften aus den Mythras-Regeln andererseits, aber Aktivitäten und Auswirkungen unterscheiden sich. Diese Regeln für Gruppierung sind 'extern', sie messen die Rolle einer Gruppierung in einem weiteren Umfeld, wogegen Regeln für Kulte/Bruderschaften 'intern' sind und die Perspektive ihrer Mitglieder einnehmen. Daher sind nicht alle Kulte Gruppierungen, und nur einige Gruppierungen sind Kulte; die jeweiligen Regeln sind jedoch verträglich und ergänzen sich.
+
+Gruppierungen existieren selten in Isolation. Meist wetteifern sie mit anderen Gruppierungen um dieselben Ressourcen oder streben gegensätzliche Ziele an. Außerdem kann eine Gruppierung Teil einer anderen sein – eine radikale Splittergruppe innerhalb einer größeren politischen Partei, ein Kriegerorden im Dienste einer Religion oder eine geheime Verschwörung von Nekromanten innerhalb eines Magierkollegs. Diese sich überschneidenden Schichten von Gruppierungen können völlig verschiedene oder möglicherweise auch gegensätzliche Ziele verfolgen, was zu breiten Konfliktfeldern führen kann, aus denen Abenteuer wachsen.
+
+## Die Beschreibung einer Gruppierung
+
+Zunächst wird die Art der Gruppierung festgelegt. Welche Stellung hat sie in der Gesellschaft? Gruppierungen können politische Parteien, Stämme, Regierungen, Söldnerkompanien, politische Interessengruppen, Handelsorganisationen, Terroristengruppen, Spionageringe, Verbrechersyndikate, religiöse Kulte oder Kabalen von Zauberern sein. Überlege, aus welchen sozialen Schichten, Berufen, Ethnien oder anderen Herkünften typische Mitglieder stammen. Sind sie Bergarbeiter, Adlige, Weltraumkadetten oder Invasoren aus dem All? Gruppierungen können allgemein bekannt sein, oder ihre Existenz ist der Inhalt von Gerüchten und Hörensagen. Überlege auch, wie Mitglieder der Gruppierung beitreten können. Steht sie allen offen oder gibt es eine Aufnahmeprüfung oder andere Voraussetzungen? Gibt es einen Treueschwur? Ein magisches Ritual? Eine Tätowierung?
+
+Gruppierungen haben normalerweise einen einzelnen Anführer, oder, seltener, eine Gruppe von Anführern. Der Anführer macht die Planung für die Gruppierung und bestimmt Ziele und Vorgehensweisen. In großen Gruppierungen kann der Anführer die Verantwortung für einzelne Ziele an Unteranführer delegieren.
+
+Gruppierungen beruhen auf einer Bestimmung, einem umfassenden Prinzip, dass die Mitglieder unter dem Banner ihres Anführers vereint. Beispiele für Bestimmungen sind 'Wähle einen neuen König von Tharsus!', 'Bekehre die Heiden im Nachbarland!' oder 'Kontrolliere alle Verbrechen im galaktischen Sektor!'. Gruppierungen sollten nicht mehr als eine Bestimmung haben: wenn die Aufmerksamkeit geteilt wird, kann es sein, dass sie keine davon erreichen. Allerdings wird niemand daran gehindert, mehreren Gruppierungen anzugehören, die jeweils eine eigene Bestimmung haben.
+
+Jede Bestimmung umfasst ein oder mehrere Ziele, die Schritte auf dem Weg sind, die Bestimmung zu erfüllen. Anders als die abgehobenen – und manchmal nebulösen – Bestimmungen sind Ziele konkret und bestimmen das Programm der Gruppierung. Abhängige Ziele erfordern, dass vorher andere Ziele erreicht sind, bevor sie selbst erfüllt werden können, und das Entscheidende Ziel ist ein Abhängiges Ziel, mit dem die Bestimmung der Gruppierung erfüllt wird.
+
+Die Mittel einer Gruppierung sind oft gleichbedeutend mit Reichtum, nicht nur an Bargeld, sondern auch durch die Möglichkeit, Einkünfte zu erzielen, ob durch schwere Arbeit in Feldern oder Minen oder durch Erpressung und Laster. Eine Gruppierung ohne Reichtum ist nicht unbedingt arm an Mitteln, wenn sie über Grundbesitz, Geschäftsmöglichkeiten, Verträge und Informationen verfügt, die alle dafür eingesetzt werden können, ihre Ziele zu erreichen. Es gibt fünf Abstufungen: Mittellos, Arm, Auskömmlich, Wohlhabend und Reich. Diese Stufen sollten der Spielumgebung angepasst werden: die Mittellose Stufe steht normalerweise für die Almosen, von denen die Angehörigen der niedrigste Sozialklasse wie Flüchtlinge und Obdachlose leben müssen, wogegen Reich die Stufe des Ein- und Überflusses der herrschenden Klasse repräsentiert.
+
+Für die Größe zählen nur die aktiven Mitglieder der Gruppierung, von den wichtigsten Intriganten bis zu den Fußtruppen und Informanten, aber nicht jene, die keine aktive Rolle einnehmen, selbst wenn sie mit der Bestimmung sympathisieren. Wie Mittel hat die Größe fünf Stufen (Winzig, Klein, Mittelgroß, Groß und Riesig), und sie sollte an die Kampagnenwelt angepasst werden. Jede Stufe ist etwa zehnmal so groß wie die vorherige. In einer Kampagne in Mythic Britain mag eine Winzige Gruppierung weniger als 20 Mitglieder haben (eine Familie), eine Kleine mindestens 20 Mitglieder (ein Clan), eine Mittelgroße mindestens 200 Mitglieder (eine Siedlung), eine Große Gruppierung mindestens 2.000 Mitglieder (ein Stamm) und eine Riesige 20.000 oder mehr Mitglieder (eine Nation).
+
+Die Hingabe einer Gruppierung stellt dar, wie sehr die Mitglieder sich ihrer Bestimmung verschrieben haben. Die Hingabe hat fünf Stufen: Oberflächlich, Mäßig, Ergeben, Eifrig und Fanatisch. Die meisten Anhänger einer Oberflächlichen Gruppierung sind nur dem Namen nach Mitglieder, bereit, an monatlichen Versammlungen teilzunehmen, aber wenig mehr; nur wenige haben eine Leidenschaft in Bezug auf die Bestimmung. In einer Mäßigen Gruppierung sind die meisten Mitglieder bereit, in jeder Woche etwas von ihrer Zeit zu opfern, um auf die Bestimmung hinzuarbeiten, aber weniger als die Hälfte von ihnen hat eine entsprechende Leidenschaft. In einer Ergebenen Gruppierung hat mindestens die Hälfte der Mitglieder eine relevante Leidenschaft und widmet die Hälfte ihrer Arbeitszeit der Bestimmung. Eine Eifrige Gruppierung besteht überwiegend aus Individuen mit einer geeigneten Leidenschaft, die bei mindestens der Hälfte über 75% beträgt. Eifrige Mitglieder widmen den größten Teil ihrer Zeit der Gruppierung. Schließlich besteht eine Fanatische Gruppierung aus denen, die sich wirklich der Bestimmung verschrieben haben; sie widmen ihr ihre ganze Zeit, und die meisten Mitglieder haben eine Leidenschaft von über 75%.
+
+Die Reichweite einer Gruppierung drückt den Einfluss, den sie innerhalb der gesamten Gesellschaft hat und die Ausstrahlung ihrer Bestimmung aus. Unbedeutende Gruppierungen haben enge Bestimmungen, die nur einen kleinen Teil der Gesellschaft interessieren, meist nur sie selbst. Bedeutende Gruppierungen haben es mit größeren Dingen zu tun, die sich auf das Schicksal von viel mehr Leuten als nur die Mitglieder auswirken – mindestens eine Größenstufe mehr. Bedeutende Gruppierungen haben in der Regel einen Anführer mit hohem sozialem Status.
+
+Die Kompetenzen einer Gruppierung sind ihre Fähigkeit, ihre Mittel in Taten zu verwandeln. Diese Kompetenzen beruhen auf ihrer Größe und ihren Mitteln: entweder besitzen die Mitglieder die notwendigen Fertigkeiten, oder sie haben die Möglichkeit, sie von anderen zu erwerben. Die Kompetenzen sind Anhängerschaft, Information, Intrige, Täuschung und Verbündete. Einzelheiten dazu stehen im nächsten Kapitel.
+
+## Wann ist eine Gruppierung keine Gruppierung?
+
+Eine Abenteurergruppe kann durchaus auch eine Gruppierung sein, ebenso ein multinationaler Konzern, aber diesen Gebilden sollte man nur die Daten einer Gruppierung geben, wenn es für das Spiel nützlich ist. Die Regeln dienen als Hilfsmittel, den Fortschritt wichtiger politischer oder sozialer Gruppen auf dem Weg zur Erfüllung ihrer Bestimmung zu messen. Wenn die Bestimmung einer Gruppierung keine Auswirkungen auf die Kampagne hat, braucht der Spielleiter sie nicht so detailliert nachzuverfolgen.
+
+Außerdem kann der Spielleiter besonders große soziale Gruppen oder Organisationen in mehrere Gruppierungen unterteilen. Sie mögen unabhängige oder widersprüchliche Bestimmungen besitzen, und es kann eine führende Gruppierung geben, die versucht, die anderen zu kontrollieren. Zum Beispiel gab es innerhalb der Kirche des Mittelalters zahlreiche Schismen, Verschwörungen, Reformbewegungen und Splittergruppen, und doch teilten sie alle dieselbe Führung und dasselbe Glaubensbekenntnis.
+
+## Attribute einer Gruppierung
+
+| Größe | Mitgliederzahl (Beispiel) | Mittel | Hingabe | Kompetenzpunkte | Zielpunkte |
+|---|---|---|---|---|---|
+| | | | | unbedeutend / bedeutend | |
+| Winzig | bis zu 20 | Mittellos | Oberflächlich | 5 / 10 | 1W4+4% |
+| Klein | mehr als 20 | Arm | Mäßig | 15 / 25 | 1W6+6% |
+| Mittelgroß | mehr als 200 | Auskömmlich | Ergeben | 30 / 50 | 1W8+8% |
+| Groß | mehr als 2.000 | Wohlhabend | Eifrig | 45 / 75 | 1W10+10% |
+| Riesig | mehr als 20.000 | Reich | Fanatisch | 60 / 100 | 1W12+12% |

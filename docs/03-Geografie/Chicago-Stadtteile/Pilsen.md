@@ -1,0 +1,3 @@
+# Pilsen
+
+Direkt südlich der Near West Side liegt Pilsen, einst das wichtigste tschechische Viertel in Chicago. Heute ist es fast vollständig mexikanisch, mit einem wirklich großartigen Día-de-los-Muertos-Festival. Sein Einkaufsstreifen auf der 18th Street beherbergt Botanicas, wo man Heiligenöl, magische Kerzen und Ausrüstung für Brujería-Zeremonien kaufen kann (oder Santería, wenn man seine Symbolik nicht durcheinanderbringt). Little Village, das mexikanische Viertel im Westen, hat weniger angelsächsische Besucher in seinen riesigen Innen-Mercados, wo man durch eine endlose Reihe von Ständen wandern und so ziemlich alles bekommen kann, was je aus Mexiko gekommen ist oder durch es hindurchgegangen ist.

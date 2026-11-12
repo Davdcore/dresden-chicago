@@ -1,0 +1,3 @@
+# Gold Coast
+
+Östlich und nördlich der Near North Side ist die Gold Coast, wo Chicagos altes Geld auf Chicagos etwas neueres Geld trifft. Ausgehend von dem Einzelhandels- und Hotelgenie Potter Palmer leben Chicagos Elite seit 1882 in Saus und Braus am Seeufer. Es gibt Hochhäuser direkt entlang des Lake Shore Drive und dann etwas würdevollere Stadthäuser ein paar Blocks landeinwärts. Man kann auf der Oak Street alles kaufen, solange es wahnsinnig teuer ist. Leute, die lediglich zur oberen Oberschicht gehören, können ihre Konsumgelüste auf der „Magnificent Mile" befriedigen, die die Michigan Avenue vom unglaublich eleganten Drake Hotel südwärts bis zum Fluss hinunterläuft.
