@@ -1,6 +1,6 @@
 Achtung achtung! Dieses Wissen ist nur für den Spielleiter gedacht!
 
-# Zeitleiste des Spielleiters
+# Zeitleiste und Ideensammlung
 
 ## Tatsächliche Zeitleiste
 
