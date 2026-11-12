@@ -33,7 +33,7 @@
     "themes": [
       "[TODO: Add a campaign theme]"
     ],
-    "player_knowledge": "spieler-wissen/README.md",
-    "game_master_knowledge": "dm-wissen/README.md"
+    "player_knowledge": "Spielerwissen/README.md",
+    "game_master_knowledge": "Spielleiterwissen/README.md"
   }
 }

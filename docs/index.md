@@ -12,3 +12,5 @@ geordnet und über die Navigation erreichbar.
 - [Kreaturen in Chicago](chicago-Kreaturen/README.md)
 - [Fraktionen](Fraktionen/README.md)
 - [Nicht-Spieler-Charaktere](Nicht-Spieler-Charaktere/README.md)
+- [Spielerwissen](Spielerwissen/README.md)
+- [Spielleiterwissen](Spielleiterwissen/README.md)
