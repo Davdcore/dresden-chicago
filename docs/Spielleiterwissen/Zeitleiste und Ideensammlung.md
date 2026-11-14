@@ -22,6 +22,16 @@ Beide Wege sind Alternativen; es ist nicht nötig, dass die Gruppe beide entdeck
 
 Nach der Rückkehr müssen sich die drei erst wieder an ihre eigene Welt gewöhnen. Sie sind erschöpft und haben Kopfschmerzen; eine lange Rast ist nötig, bevor sie sich neuen Problemen widmen können.
 
+## Weitere mögliche Fortführungen in der Piratenwelt
+
+Wenn die Gruppe noch länger in der Piratenwelt bleiben möchte, kann sie dort weitere Abenteuer erleben. Am Ende könnten die Helden gegen Kapitän Barbossa um den Schatz aus Goldmünzen kämpfen. Wer eine dieser Münzen besitzt, wird zu einem untoten Skelett. Der Kampf soll episch und schwierig werden.
+
+Nach dem Kampf werden den Helden nach und nach Erinnerungen aus anderen Leben eingepflanzt – unabhängig davon, ob sie eine Münze genommen haben. Es fühlt sich an, als vermischte sich ihre Persönlichkeit mit der von Menschen, die zu jener Zeit gelebt haben. Wer eine Münze an sich genommen hat, wird zwar zu einem untoten Zombie, wird aber auch in der wirklichen Welt sofort wieder von den Piraten gejagt. Die Jagd dauert an, bis die Münze abgegeben wird.
+
+## Mögliche Fortführung für die übrigen Spieler
+
+Die Spieler, die noch nicht in der Piratenwelt sind, könnten versuchen, die dort verschollenen Protagonisten anzurufen. Statt einer Antwort hören sie eine aufgenommene, verzerrte Stimme, die sie zu einem bestimmten Ort bestellt. Dort finden sie einen kleinen Schamanenladen. In ihm wirkt die Magierin Calipso ein Ritual und räuchert den gesamten Laden ein. Den Anwesenden wird schwindelig, und ihre Sicht verschwimmt im Nebel. Wenn das Ritual endet, sind die Helden in der Piratenwelt – gemeinsam mit dem ganzen Laden, der vermutlich in Tortuga gelandet ist.
+
 ## Möglicher Story-Arc: Die Poker-Runde
 
 Was mit der Tante von Lisas Charakter geschehen ist, bleibt zunächst offen. Eine mögliche Erklärung führt zu einem mächtigen Phobophagen: Er könnte die Poker-Runde gefangen genommen haben, um ihre Ängste anzuzapfen und sich über lange Zeit von ihrer Energie zu ernähren.
