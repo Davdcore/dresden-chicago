@@ -1,0 +1,63 @@
+# Die Nebelflutpiraten
+
+## Hintergrund
+
+Die Nebelflutpiraten sind eine lose Flotte menschlicher Freibeuter, die abgelegene Seewege befährt und nach Beute, sicheren Häfen und einem Leben außerhalb der Kontrolle großer Mächte sucht. Gold ist willkommen, aber nicht jeder an Bord ist nur deswegen Pirat: Manche wollen Schulden loswerden, einer Marine entkommen oder schlicht selbst bestimmen, wohin ihr Schiff fährt.
+
+Ihr Auftreten kann durchaus dem bekannten Bild entsprechen: wettergegerbte Gesichter, Bärte, Augenklappen, Holzbeine, Säbel und Geschichten von versunkenen Schätzen. Das sind jedoch keine Aufnahmebedingungen. Die Mannschaft ist vielfältig, und jedes dieser Merkmale ist eine persönliche Geschichte, keine Uniform.
+
+Alle Piraten der Flotte sind Menschen. Ihre übliche Ausrüstung besteht aus einer einschüssigen Pistole und einer Nahkampfwaffe: meist einem Säbel oder Schwert, gelegentlich einer Pike. Die Pistole ist vor allem für den ersten Schuss gedacht; danach entscheidet sich ein Gefecht oft im Nahkampf.
+
+Ein passender [Charakterbogen für einen Standardpiraten](../../Nicht-Spieler-Charaktere/Standardpirat.md) enthält Spielwerte und Ausrüstung.
+
+### Besondere Piraten
+
+Erfahrene Deckoffiziere und Anführer tragen mitunter mehrere Pistolen, damit sie im Gefecht mehr als einen Schuss abgeben können, bevor sie nachladen müssen. Andere bevorzugen ungewöhnliche Waffen wie eine Peitsche oder führen eine besonders gefürchtete Klinge. Sie heben sich durch Erfahrung, Entschlossenheit oder persönliche Kampftechnik von der gewöhnlichen Mannschaft ab.
+
+### Die Gebundenen der Nebelflut
+
+Ein Teil der Mannschaft unter Kapitänin Mara Venn ist durch einen alten Fluch zu untoten Skelett-Zombies geworden. Sie waren einst Menschen und behalten Erinnerungen, Gewohnheiten und einzelne Eigenheiten aus ihrem früheren Leben, doch ihre Körper sind nur noch Knochen, Sehnen und salzige Seefetzen.
+
+Der Fluch ist an die eiserne Schiffsglocke der *Nebelflut* gebunden. Solange die Glocke unversehrt an Bord bleibt, können die Gebundenen im Kampf auseinandergerissen oder zerschmettert werden, kehren aber bei der nächsten Flut zurück. Wird die Glocke zerstört, endet ihre Unsterblichkeit. Die Gebundenen sind keine eigene Spezies, sondern verfluchte ehemalige Menschen.
+
+## Spielwerte
+
+- **Anführer:** Kapitänin Mara Venn
+- **Bestimmung:** Bewahre die Freiheit der Mannschaft und sichere ihr Überleben auf den abgelegenen Seewegen.
+- **Größe:** Klein
+- **Mittel:** Arm
+- **Hingabe:** Mäßig
+- **Reichweite:** Unbedeutend
+
+### Ziele
+
+1. Halte Schiff und Mannschaft einsatzfähig.
+2. Sichere Beute, Vorräte und Zugang zu geschützten Häfen.
+3. Meide oder überliste Mächte, die die Flotte kontrollieren wollen.
+4. Finde heraus, wie sich der Fluch der eisernen Schiffsglocke brechen lässt (abhängiges Ziel).
+5. Entscheide über das Schicksal der Gebundenen und der *Nebelflut* (entscheidendes Ziel, abhängig von Ziel 4).
+
+### Kompetenzen
+
+**Kompetenzpunkte:** 15 ausgegeben (Klein, Arm, Mäßig; unbedeutende Reichweite)
+
+- **Anhängerschaft:** 30%
+- **Information:** 22%
+- **Intrige:** 20%
+- **Täuschung:** 21%
+- **Verbündete:** 22%
+
+## Besonderheiten
+
+- **Menschliche Mannschaft:** Abgesehen von den verfluchten Gebundenen sind alle Piraten Menschen.
+- **Einschüssige Pistolen:** Die Standardpistolen müssen nach jedem Schuss nachgeladen werden. Die Mannschaft zieht sich deshalb nach dem ersten Schuss oft in den Nahkampf zurück.
+- **Verschiedene Nahkampfwaffen:** Säbel und Schwerter sind verbreitet; einzelne Piraten führen eine Pike oder eine andere persönliche Waffe.
+- **Erfahrene Anführer:** Deckoffiziere und Kapitäne können mehrere geladene Pistolen oder seltene Waffen wie Peitschen führen.
+- **Flutgebundene Unsterblichkeit:** Die Gebundenen kehren zurück, solange die eiserne Schiffsglocke intakt an Bord ist.
+
+## Einsatz-Beispiele
+
+1. **Anhängerschaft-Einsatz „Entermanöver“:** Die Mannschaft setzt Enterhaken und Nahkampfwaffen ein, um ein Schiff zu übernehmen.
+2. **Täuschung-Einsatz „Falsche Flagge“:** Die Nebelflut gibt sich als Handelsschiff aus, um eine Kontrolle zu umgehen.
+3. **Information-Einsatz „Gerüchte am Kai“:** Die Mannschaft sucht in einem Hafen nach Hinweisen auf einen sicheren Kurs oder die Herkunft des Fluchs.
+4. **Anhängerschaft-Einsatz „Die Gebundenen stehen wieder auf“:** Nach einem heftigen Gefecht sammelt sich die Skelett-Crew bei einsetzender Flut erneut an Bord.

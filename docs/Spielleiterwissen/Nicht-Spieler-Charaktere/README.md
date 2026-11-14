@@ -67,6 +67,7 @@ Hintergründe und Spieldaten der Nicht-Spieler-Charaktere. Wähle einen Artikel 
 - [Quintus Cassius / Saluriel](Quintus_Cassius.md)
 - [SANYA](Sanya.md)
 - [Sigrun Gard](Sigrun_Gard.md)
+- [Standardpirat](Standardpirat.md)
 - [SPIKE](Spike.md)
 - [THE ARCHIVE ("IVY")](The_Archive_Ivy.md)
 - [The Erlking](The_Erlking.md)

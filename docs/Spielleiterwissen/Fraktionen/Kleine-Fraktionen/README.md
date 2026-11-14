@@ -4,6 +4,7 @@
 
 ## Artikel
 
+- [Die Nebelflutpiraten](Die-Nebelflutpiraten.md)
 - [Brians Okkulte Irregulären (Brian's Occult Irregulars)](Brians-Okkulte-Irregul%C3%A4ren.md)
 - [Das Chinatown Feng Shui Kollektiv](Das-Chinatown-Feng-Shui-Kollektiv.md)
 - [Das Pilsen Bruja Netzwerk](Das-Pilsen-Bruja-Netzwerk.md)
