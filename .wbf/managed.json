@@ -1,0 +1,10 @@
+{
+  "frameworkVersion": "0.2.12",
+  "branch": "main",
+  "agents": [],
+  "skillsDirs": [],
+  "files": {
+    ".github/workflows/publish.yml": "04b9c2b097eeb3c03ed5dcf031c8b16d65bc286b8312b0f7aecd2320507d121c",
+    "AGENTS.md": "9b857e97db9bccd7c7388a2dd0307113b157031e63bb37db6e0d7dfc618a07f7"
+  }
+}

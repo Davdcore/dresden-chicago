@@ -1,1 +1,5 @@
 site/
+node_modules/
+.wbf/quartz/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

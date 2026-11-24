@@ -1,4 +1,31 @@
 {
+  "title": "Dresden-Chicago",
+  "entityTypes": [
+    "character",
+    "creature",
+    "faction",
+    "location",
+    "topic"
+  ],
+  "buildVariants": {
+    "player-wiki": {
+      "tags": [
+        "player"
+      ]
+    },
+    "gm-wiki": {}
+  },
+  "timelines": {
+    "campaign": {
+      "title": "Tatsächliche Ereignisse",
+      "tags": [
+        "gm"
+      ],
+      "wikis": [
+        "gm-wiki"
+      ]
+    }
+  },
   "world": {
     "name": "[TODO: Enter the world or campaign name]",
     "description": "[TODO: Briefly describe the setting and its central premise]",
