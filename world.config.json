@@ -5,6 +5,7 @@
     "creature",
     "faction",
     "location",
+    "Player-Character",
     "topic"
   ],
   "buildVariants": {
@@ -22,6 +23,16 @@
         "gm"
       ],
       "wikis": [
+        "gm-wiki"
+      ]
+    },
+    "seemannsflirt": {
+      "title": "Seemannsflirt",
+      "tags": [
+        "player"
+      ],
+      "wikis": [
+        "player-wiki",
         "gm-wiki"
       ]
     }

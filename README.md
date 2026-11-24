@@ -3,7 +3,8 @@
 Das Kampagnen-Wiki wird mit dem World Building Framework (WBF) verwaltet.
 WBF erzeugt zwei getrennte Wiki-Varianten:
 
-- `player-wiki` enthält ausschließlich Seiten aus dem Spielerwissen.
+- `player-wiki` enthält das Spielerwissen sowie ausdrücklich freigegebene
+  Charaktere und Ereignisse.
 - `gm-wiki` enthält alle migrierten Seiten.
 
 ## Lokal bauen
